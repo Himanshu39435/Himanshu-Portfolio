@@ -1,8 +1,10 @@
-# 💻 Kunj Desai — Portfolio Website
-Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
-It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
+# 💻 Himanshu Kumar — Portfolio Website
+Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and modern UI principles.
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
+This portfolio showcases my journey as a **MERN Stack Developer**, highlighting my full-stack projects, technical skills, certifications, and passion for building scalable web applications.
+
+
+🌐 **Website:** [[[Himanshu-Portfolio]]](https://himanshu-portfolio.vercel.app/ )
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
@@ -12,25 +14,28 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 
 ## 🚀 Features
 
-* 🎨 **Modern UI/UX** with black-based aesthetic theme
-* ⚡ Smooth **Framer Motion** animations
-* 💼 **Projects, Resume, and Contact sections**
-* 🧠 Tech-focused portfolio highlighting AI/ML projects
-* 📨 Functional contact form powered by **EmailJS**
-* 🧩 Responsive design for all screen sizes
+- 🎨 Modern dark-themed UI with clean layout  
+- ⚡ Smooth animations using Framer Motion  
+- 💼 Dedicated sections for Projects, Skills, Resume, and Certificates  
+- 🛒 Showcases real-world MERN stack applications  
+- 📨 Functional contact form powered by EmailJS  
+- 📱 Fully responsive across all devices  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category            | Tools / Libraries                        |
-| ------------------- | ---------------------------------------- |
-| **Frontend**        | React.js, HTML5, CSS3, JavaScript (ES6+) |
-| **Styling**         | Tailwind CSS / Custom CSS                |
-| **Animation**       | Framer Motion                            |
-| **Contact Form**    | EmailJS                                  |
-| **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+| Category            | Technologies Used                           |
+|--------------------|---------------------------------------------|
+| **Frontend**        | React.js, JavaScript (ES6+), HTML5, CSS3   |
+| **Styling**         | Custom CSS, Responsive Design              |
+| **Backend Projects**| Node.js, Express.js                        |
+| **Database**        | MongoDB, MySQL                             |
+| **Authentication**  | JWT                                        |
+| **Animation**       | Framer Motion                              |
+| **Contact Form**    | EmailJS                                    |
+| **Version Control** | Git & GitHub                               |
+| **Deployment**      | Vercel                                     |
 
 ---
 
@@ -40,7 +45,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone https://github.com/Himanshu39435/Himanshu-Portfolio.git
 
 # 2️⃣ Navigate to project directory
 cd kunjdesai-portfolio
@@ -60,8 +65,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+* 📧 **Email:** [hk39435@gmail.com](mailto:hk39435@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/hk39435/)
 
 ---
 
