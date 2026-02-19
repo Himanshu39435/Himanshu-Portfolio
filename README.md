@@ -49,7 +49,7 @@ To run this project locally:
 git clone https://github.com/Himanshu39435/Himanshu-Portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Himanshu-portfolio
 
 # 3️⃣ Install dependencies
 npm install
