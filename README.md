@@ -4,7 +4,7 @@ Welcome to my personal portfolio website built with **React.js**, **Framer Motio
 This portfolio showcases my journey as a **MERN Stack Developer**, highlighting my full-stack projects, technical skills, certifications, and passion for building scalable web applications.
 
 
-🌐 **Website:** [[[Himanshu-Portfolio]]](https://himanshu-portfolio.vercel.app/ )
+🌐 **Website:** [[[Himanshu-Portfolio]]](https://himanshu-portfolio-lime.vercel.app/ )
 
 🖼️ **Screenshots**
 <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/34f9a207-16d4-4d8b-bd2a-1a2e02e2c7ba" />
