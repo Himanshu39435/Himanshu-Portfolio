@@ -4,12 +4,13 @@ Welcome to my personal portfolio website built with **React.js**, **Framer Motio
 This portfolio showcases my journey as a **MERN Stack Developer**, highlighting my full-stack projects, technical skills, certifications, and passion for building scalable web applications.
 
 
-🌐 **Website:** [[[Himanshu-Portfolio]]](https://himanshu-portfolio.vercel.app/ )
+🌐 **Website:** [[[Himanshu-Portfolio ]]](https://himanshu-portfolio-lime.vercel.app/ )
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
-<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" />
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/34f9a207-16d4-4d8b-bd2a-1a2e02e2c7ba" />
+<img width="1903" height="906" alt="image" src="https://github.com/user-attachments/assets/018c283c-3e7f-43ec-a131-e38519988d0a" />
+<img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/67560338-b5b6-4387-a7a6-86999938f953" />
+
 ---
 
 ## 🚀 Features
@@ -48,7 +49,7 @@ To run this project locally:
 git clone https://github.com/Himanshu39435/Himanshu-Portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Himanshu-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -66,7 +67,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 * 📧 **Email:** [hk39435@gmail.com](mailto:hk39435@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/hk39435/)
+* 💼 **LinkedIn:** [linkedin.com/in/hk39435](https://www.linkedin.com/in/hk39435/)
 
 ---
 
