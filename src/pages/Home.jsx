@@ -18,14 +18,14 @@ export default function Home() {
 ];
 
 
-  const quickLinks = [
-    { img: "/github.png", title: "GitHub", link: "https://github.com/" },
-    { img: "/linkedin.png", title: "LinkedIn", link: "https://linkedin.com/" },
-    { img: "/gmail.png", title: "Email", link: "mailto:yourmail@gmail.com" },
-    { img: "/whatsapp.png", title: "WhatsApp", link: "https://wa.me/91XXXXXXXXXX" },
-    { img: "/insta.png", title: "Instagram", link: "https://instagram.com/" },
-    { img: "/facebook.png", title: "Facebook", link: "https://facebook.com/" },
-  ];
+ const quickLinks = [
+  { img: "/github.png", title: "GitHub", link: "https://github.com/Himanshu39435" },
+  { img: "/linkedin.png", title: "LinkedIn", link: "https://www.linkedin.com/in/hk39435/" },
+  { img: "/gmail.png", title: "Email", link: "mailto:hk394353@gmail.com" },
+  { img: "/whatsapp.png", title: "WhatsApp", link: "https://wa.me/+919525206883" },
+  { img: "/insta.png", title: "Instagram", link: "https://www.instagram.com/_its_me_a_rya_/" },
+  { img: "/facebook.png", title: "Facebook", link: "https://www.facebook.com/" },
+];
 
   return (
     <section className="home-section">
