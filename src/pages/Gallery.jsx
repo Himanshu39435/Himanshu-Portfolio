@@ -8,7 +8,7 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest 🌲🌫️",
-      photos: ["/gallery/matheran.jpg", "/gallery/matheran2.jpg","/gallery/p1.jpeg"],
+      photos: ["/gallery/matheran2.jpg","/gallery/p1.jpeg"],
     },
     {
       id: 2,
